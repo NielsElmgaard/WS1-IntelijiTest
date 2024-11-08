@@ -2,6 +2,6 @@ public class test
 {
   public static void main(String[] args)
   {
-    System.out.println("IKKE Hello med dig");
+    System.out.println("Hello med dig IKKE DIG");
   }
 }
